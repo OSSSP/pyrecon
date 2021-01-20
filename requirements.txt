@@ -1,5 +1,5 @@
 requests>=2.20.0
-beautifultable==1.0.0
+beautifultable==1.0.1
 python_whois==0.7.0
 pyfiglet==0.8.post1
 pyfiglet==0.7.5
